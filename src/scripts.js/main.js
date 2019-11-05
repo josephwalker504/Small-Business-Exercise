@@ -1,0 +1,1 @@
+const newHire = document.getElementsByClassName("newGuy").innerhtml
