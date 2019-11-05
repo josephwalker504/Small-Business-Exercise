@@ -1,0 +1,44 @@
+{ "computers": [
+    {
+        "id": 1,
+        "machine": "MacBook Pro",
+    }
+    {
+        "id": 2,
+        "machine": "Surface Pro"
+    }
+    {
+        "id": 3,
+        "machine": "HP"
+    }
+
+],
+"departments":[
+    {
+    "id": 1,
+    "section": "IT Department"
+    }
+    {
+        "id": 2,
+        "section": "Sales Department"
+    }
+    {
+        "id": 3,
+        "section": "Customer Service"
+    }
+],
+"employee": [
+    {
+        "id": 1,
+        "name": "John Doe"
+    }
+    {
+        "id": 2,
+        "name": "Jane SMith"
+    }
+    {
+        "id": 3,
+        "name": "Joe Devs"
+    }
+]
+}
